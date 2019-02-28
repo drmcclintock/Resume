@@ -33,4 +33,4 @@
 - Spending way too much time with Minecraft redstone logic
 
 ## Why Computer Science?
-  I have not found myself pursuing a career as a programmer because of job security. I'm not here because my parents told me it would be the safest bet. I'm here because I've spent most of my life seeking things that force me out of my comfort zone mentally. I have always been facinated by simple questions that have complex answers. In some ways I see myself as an artist and programming is the art of logic. I am pursuing programming as a career because I want to make a living thinking outside the box
+I have not found myself pursuing a career as a programmer because of job security. I'm not here because my parents told me it would be the safest bet. I'm here because I've spent most of my life seeking things that force me out of my comfort zone mentally. I have always been facinated by simple questions that have complex answers. In some ways I see myself as an artist and programming is the art of logic. I am pursuing programming as a career because I want to make a living thinking outside the box
