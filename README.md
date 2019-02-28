@@ -1,4 +1,8 @@
 # Eli McClintock 
+Email: *drmcclintock12@gmail.com*
+
+
+
 
 
 ## Education
